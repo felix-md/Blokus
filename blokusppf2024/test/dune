@@ -1,0 +1,6 @@
+(tests
+ (names 
+ testGame_controller testUtils testPlayer testPiece)
+ (instrumentation (backend bisect_ppx))
+ (libraries game board game_controller view piece player game_state ounit2 qcheck))
+

@@ -1,0 +1,6 @@
+(library
+ (name AI)
+ (public_name blokusppf2024.AI)
+ (libraries game_state player piece play)
+ 
+)

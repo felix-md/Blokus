@@ -1,0 +1,5 @@
+(library
+ (name piece)
+ (public_name blokusppf2024.piece)
+
+)

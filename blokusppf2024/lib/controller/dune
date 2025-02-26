@@ -1,0 +1,7 @@
+(library
+ (name game_controller)
+ (preprocess (pps ppx_inline_test))
+ (public_name blokusppf2024.game_controller)
+ (libraries player game play)
+ 
+)

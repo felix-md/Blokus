@@ -1,0 +1,6 @@
+(library
+ (name play)
+ (modules play)
+ (public_name blokusppf2024.play)
+ (libraries piece )
+ )

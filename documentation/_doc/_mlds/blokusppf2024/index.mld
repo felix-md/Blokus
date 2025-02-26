@@ -1,0 +1,25 @@
+{0 blokusppf2024 index}
+{1 Library blokusppf2024.board}
+The entry point of this library is the module:
+{!module-Board}.
+{1 Library blokusppf2024.game}
+The entry point of this library is the module:
+{!module-Game}.
+{1 Library blokusppf2024.game_controller}
+The entry point of this library is the module:
+{!module-Game_controller}.
+{1 Library blokusppf2024.game_state}
+The entry point of this library is the module:
+{!module-Game_state}.
+{1 Library blokusppf2024.piece}
+The entry point of this library is the module:
+{!module-Piece}.
+{1 Library blokusppf2024.player}
+The entry point of this library is the module:
+{!module-Player}.
+{1 Library blokusppf2024.utils}
+The entry point of this library is the module:
+{!module-Utils}.
+{1 Library blokusppf2024.view}
+The entry point of this library is the module:
+{!module-View}.

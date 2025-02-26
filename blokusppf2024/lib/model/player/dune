@@ -1,0 +1,6 @@
+(library
+ (name player)
+ (modules player)
+ (public_name blokusppf2024.player)
+ (libraries piece utils board play)
+ )

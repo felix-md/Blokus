@@ -1,0 +1,6 @@
+(library
+ (name board)
+ (public_name blokusppf2024.board)
+ (libraries piece)
+ 
+)
